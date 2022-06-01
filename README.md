@@ -47,7 +47,7 @@
 <a name="learning-now"></a>
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
 <img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
-<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue&logoColor=FFFFFF" alt="Vue.js logo" title="Vue.js" height="25" /><br>
+<img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js&logoColor=3178C6" alt="Vue.js logo" title="Vue.js" height="25" /><br>
 
 
 ## Languages:
