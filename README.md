@@ -50,5 +50,5 @@
 
 ## Languages:
 
-<span>Russian <img src="https://img.icons8.com/emoji/48/000000/russia-emoji.png"/></span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span>Russian <img src="https://img.icons8.com/emoji/48/000000/russia-emoji.png"/></span>
 <span>English <img src="https://img.icons8.com/emoji/48/000000/united-kingdom-emoji.png"/></span>
